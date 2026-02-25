@@ -1,0 +1,9 @@
+REGEDIT4
+
+[HKEY_LOCAL_MACHINE\Software\catastro]
+"usuario"="admin"
+"clave"="admin"
+"base"="catastro"
+"servidor"="192.188.57.15"
+"dsn"="catastro"
+
